@@ -23,13 +23,13 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
  pip install rich
  pip install bs4
  pkg install git 
- rm -rf 
- git clone 
+ rm -rf PublicV2
+ git clone https://github.com/RJ-Shuvo/PublicV2
 ```
 #### RUN SCRIPT
 ```python
- cd 
- python 
+ cd PublicV2
+ python PublicV2.py
 ```
 
 
